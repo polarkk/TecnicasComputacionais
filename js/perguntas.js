@@ -63,5 +63,18 @@ export const perguntas = [
                 afirmacao: "afirmacao"
             }
         ]
+    },
+    {
+        enunciado: "Durante a aula de tecnologia, a professora explica que a IA pode ser usada para criar músicas, vídeos e imagens, mas também pode ser usada para manipular informações e provocar confusão. Como você reage ao saber disso?",
+        alternativas: [
+            {
+                texto: "Entendo que a IA tem grande potencial, mas também preciso desenvolver senso crítico para verificar fontes, identificar manipulações e usar a tecnologia de forma responsável.",
+                afirmacao: "afirmacao"
+            },
+            {
+                texto: "Acredito que qualquer conteúdo gerado pela IA é confiável, porque a tecnologia é inteligente e não comete erros.",
+                afirmacao: "afirmacao"
+            }
+        ]
     }
 ];
